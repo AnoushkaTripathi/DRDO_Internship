@@ -3,7 +3,7 @@
 https://fail0verflow.com/blog/2014/proxmark3-fpga-peak-detection/
 ![image](https://github.com/user-attachments/assets/61c7daab-bccf-42d4-a3bd-9a0296e1fac2)
 reference https://github.com/leandcesar/PeakDetection/tree/master
-Algorithm
+# Algorithm
 It is based on the principle of dispersion: if a new datapoint is a given x number of standard deviations away from some moving average, the algorithm signals (also called z-score).
 
 The algorithm takes 3 inputs:
